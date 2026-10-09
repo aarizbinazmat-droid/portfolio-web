@@ -246,7 +246,6 @@ with st.sidebar:
         "Navigation",
         [
             "🏠 Profile & Overview",
-            "💼 Professional Experience",
             "🛠 Technical Skills Matrix",
             "🚀 Interactive Project Gallery",
             "📊 Data Management & ETL Studio",
